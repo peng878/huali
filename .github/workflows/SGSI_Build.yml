@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://bigota.d.miui.com/V13.0.3.0.SKVCNXM/miui_MONA_V13.0.3.0.SKVCNXM_f52499d7bf_12.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
